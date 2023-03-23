@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fpc"]
+	path = fpc
+	url = https://github.com/cran/fpc
+	shallow = true
+	registered = true
+[submodule "prabclus"]
+	path = prabclus
+	url = https://github.com/cran/prabclus
+	shallow = true
+	registered = true
+[submodule "smoothmest"]
+	path = smoothmest
+	url = https://github.com/cran/smoothmest
+	shallow = true
+	registered = true
